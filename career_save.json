@@ -1,0 +1,2866 @@
+{
+  "week": 4,
+  "my_team": "Liverpool",
+  "teams": [
+    {
+      "name": "Arsenal",
+      "points": 3,
+      "elo": 1232.1973526629272,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 0,
+        "lost": 2,
+        "goals_for": 5,
+        "goals_against": 9,
+        "goal_diff": -4
+      },
+      "players": [
+        {
+          "name": "John Rodriguez",
+          "position": "DEF",
+          "age": 31,
+          "overall": 68,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Miller",
+          "position": "FWD",
+          "age": 35,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Steven Jackson",
+          "position": "DEF",
+          "age": 23,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Mark Jones",
+          "position": "DEF",
+          "age": 22,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Michael Moore",
+          "position": "MID",
+          "age": 32,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Anderson",
+          "position": "MID",
+          "age": 35,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Davis",
+          "position": "FWD",
+          "age": 18,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Donald Miller",
+          "position": "MID",
+          "age": 27,
+          "overall": 77,
+          "goals": 2
+        },
+        {
+          "name": "William Brown",
+          "position": "DEF",
+          "age": 29,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Smith",
+          "position": "FWD",
+          "age": 19,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Steven Thomas",
+          "position": "FWD",
+          "age": 27,
+          "overall": 74,
+          "goals": 1
+        },
+        {
+          "name": "Matthew Jones",
+          "position": "GK",
+          "age": 28,
+          "overall": 69,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Smith",
+          "position": "FWD",
+          "age": 26,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Taylor",
+          "position": "DEF",
+          "age": 24,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Charles Moore",
+          "position": "FWD",
+          "age": 28,
+          "overall": 78,
+          "goals": 2
+        },
+        {
+          "name": "Matthew Lopez",
+          "position": "DEF",
+          "age": 30,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Williams",
+          "position": "DEF",
+          "age": 24,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "James Thomas",
+          "position": "GK",
+          "age": 32,
+          "overall": 73,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Aston Villa",
+      "points": 9,
+      "elo": 1303.2019452460518,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 3,
+        "drawn": 0,
+        "lost": 0,
+        "goals_for": 8,
+        "goals_against": 4,
+        "goal_diff": 4
+      },
+      "players": [
+        {
+          "name": "Thomas Lopez",
+          "position": "MID",
+          "age": 34,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Martin",
+          "position": "MID",
+          "age": 35,
+          "overall": 82,
+          "goals": 1
+        },
+        {
+          "name": "Richard Miller",
+          "position": "GK",
+          "age": 34,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "James Williams",
+          "position": "MID",
+          "age": 25,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "Mark Moore",
+          "position": "MID",
+          "age": 27,
+          "overall": 76,
+          "goals": 1
+        },
+        {
+          "name": "Joshua Martinez",
+          "position": "GK",
+          "age": 29,
+          "overall": 67,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Lopez",
+          "position": "DEF",
+          "age": 29,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Martinez",
+          "position": "FWD",
+          "age": 21,
+          "overall": 70,
+          "goals": 2
+        },
+        {
+          "name": "Joshua Davis",
+          "position": "DEF",
+          "age": 33,
+          "overall": 67,
+          "goals": 0
+        },
+        {
+          "name": "John Martinez",
+          "position": "FWD",
+          "age": 18,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Davis",
+          "position": "MID",
+          "age": 24,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Davis",
+          "position": "FWD",
+          "age": 34,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Donald Martinez",
+          "position": "FWD",
+          "age": 28,
+          "overall": 77,
+          "goals": 3
+        },
+        {
+          "name": "Joshua Miller",
+          "position": "GK",
+          "age": 29,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Michael Jackson",
+          "position": "FWD",
+          "age": 35,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Davis",
+          "position": "MID",
+          "age": 29,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Robert Williams",
+          "position": "FWD",
+          "age": 23,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Richard Wilson",
+          "position": "MID",
+          "age": 18,
+          "overall": 78,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "name": "Bournemouth",
+      "points": 6,
+      "elo": 1289.647101128314,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 9,
+        "goals_against": 8,
+        "goal_diff": 1
+      },
+      "players": [
+        {
+          "name": "Steven Martin",
+          "position": "FWD",
+          "age": 35,
+          "overall": 77,
+          "goals": 2
+        },
+        {
+          "name": "James Johnson",
+          "position": "FWD",
+          "age": 31,
+          "overall": 81,
+          "goals": 1
+        },
+        {
+          "name": "Anthony Davis",
+          "position": "DEF",
+          "age": 27,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Johnson",
+          "position": "DEF",
+          "age": 23,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "James Gonzalez",
+          "position": "MID",
+          "age": 23,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Moore",
+          "position": "GK",
+          "age": 27,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Jones",
+          "position": "GK",
+          "age": 29,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Paul Davis",
+          "position": "MID",
+          "age": 25,
+          "overall": 84,
+          "goals": 1
+        },
+        {
+          "name": "Donald Martinez",
+          "position": "GK",
+          "age": 30,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Charles Garcia",
+          "position": "MID",
+          "age": 34,
+          "overall": 89,
+          "goals": 0
+        },
+        {
+          "name": "Charles Rodriguez",
+          "position": "FWD",
+          "age": 29,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Thomas",
+          "position": "FWD",
+          "age": 23,
+          "overall": 85,
+          "goals": 1
+        },
+        {
+          "name": "Thomas Gonzalez",
+          "position": "MID",
+          "age": 32,
+          "overall": 82,
+          "goals": 2
+        },
+        {
+          "name": "Joseph Davis",
+          "position": "GK",
+          "age": 33,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "Paul Gonzalez",
+          "position": "FWD",
+          "age": 27,
+          "overall": 79,
+          "goals": 2
+        },
+        {
+          "name": "Michael Lopez",
+          "position": "GK",
+          "age": 32,
+          "overall": 88,
+          "goals": 0
+        },
+        {
+          "name": "Mark Miller",
+          "position": "DEF",
+          "age": 25,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "David Davis",
+          "position": "DEF",
+          "age": 35,
+          "overall": 82,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Brentford",
+      "points": 5,
+      "elo": 1287.2780957269497,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 2,
+        "lost": 0,
+        "goals_for": 8,
+        "goals_against": 7,
+        "goal_diff": 1
+      },
+      "players": [
+        {
+          "name": "Joseph Anderson",
+          "position": "GK",
+          "age": 35,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Jones",
+          "position": "GK",
+          "age": 26,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Miller",
+          "position": "DEF",
+          "age": 34,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "David Williams",
+          "position": "DEF",
+          "age": 31,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "David Brown",
+          "position": "DEF",
+          "age": 21,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Paul Garcia",
+          "position": "DEF",
+          "age": 22,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Wilson",
+          "position": "FWD",
+          "age": 29,
+          "overall": 86,
+          "goals": 2
+        },
+        {
+          "name": "Joshua Gonzalez",
+          "position": "FWD",
+          "age": 25,
+          "overall": 87,
+          "goals": 2
+        },
+        {
+          "name": "Steven Miller",
+          "position": "FWD",
+          "age": 30,
+          "overall": 80,
+          "goals": 3
+        },
+        {
+          "name": "William Gonzalez",
+          "position": "GK",
+          "age": 19,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Jones",
+          "position": "FWD",
+          "age": 23,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "Donald Martin",
+          "position": "FWD",
+          "age": 30,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "James Williams",
+          "position": "DEF",
+          "age": 23,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Michael Moore",
+          "position": "DEF",
+          "age": 25,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Kenneth Brown",
+          "position": "GK",
+          "age": 27,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "James Rodriguez",
+          "position": "MID",
+          "age": 20,
+          "overall": 80,
+          "goals": 1
+        },
+        {
+          "name": "Charles Garcia",
+          "position": "FWD",
+          "age": 29,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Mark Lopez",
+          "position": "FWD",
+          "age": 20,
+          "overall": 86,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Brighton",
+      "points": 5,
+      "elo": 1275.003447750321,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 2,
+        "lost": 0,
+        "goals_for": 8,
+        "goals_against": 7,
+        "goal_diff": 1
+      },
+      "players": [
+        {
+          "name": "William Martin",
+          "position": "MID",
+          "age": 23,
+          "overall": 73,
+          "goals": 2
+        },
+        {
+          "name": "Mark Rodriguez",
+          "position": "DEF",
+          "age": 28,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Steven Rodriguez",
+          "position": "MID",
+          "age": 30,
+          "overall": 73,
+          "goals": 1
+        },
+        {
+          "name": "William Anderson",
+          "position": "FWD",
+          "age": 34,
+          "overall": 81,
+          "goals": 1
+        },
+        {
+          "name": "Andrew Martin",
+          "position": "DEF",
+          "age": 21,
+          "overall": 67,
+          "goals": 0
+        },
+        {
+          "name": "Donald Taylor",
+          "position": "MID",
+          "age": 23,
+          "overall": 74,
+          "goals": 0
+        },
+        {
+          "name": "William Wilson",
+          "position": "MID",
+          "age": 35,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Johnson",
+          "position": "MID",
+          "age": 24,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "William Martinez",
+          "position": "FWD",
+          "age": 34,
+          "overall": 76,
+          "goals": 1
+        },
+        {
+          "name": "Charles Taylor",
+          "position": "FWD",
+          "age": 23,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "David Davis",
+          "position": "FWD",
+          "age": 20,
+          "overall": 69,
+          "goals": 0
+        },
+        {
+          "name": "William Wilson",
+          "position": "DEF",
+          "age": 34,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Mark Smith",
+          "position": "FWD",
+          "age": 32,
+          "overall": 74,
+          "goals": 1
+        },
+        {
+          "name": "William Hernandez",
+          "position": "MID",
+          "age": 29,
+          "overall": 78,
+          "goals": 1
+        },
+        {
+          "name": "Daniel Jackson",
+          "position": "GK",
+          "age": 31,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Mark Martinez",
+          "position": "DEF",
+          "age": 26,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "James Martinez",
+          "position": "GK",
+          "age": 19,
+          "overall": 69,
+          "goals": 0
+        },
+        {
+          "name": "David Moore",
+          "position": "MID",
+          "age": 25,
+          "overall": 81,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "name": "Chelsea",
+      "points": 3,
+      "elo": 1259.4795283844758,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 0,
+        "lost": 2,
+        "goals_for": 8,
+        "goals_against": 6,
+        "goal_diff": 2
+      },
+      "players": [
+        {
+          "name": "David Johnson",
+          "position": "MID",
+          "age": 32,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "James Brown",
+          "position": "FWD",
+          "age": 27,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Charles Garcia",
+          "position": "GK",
+          "age": 34,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Hernandez",
+          "position": "FWD",
+          "age": 26,
+          "overall": 74,
+          "goals": 1
+        },
+        {
+          "name": "Daniel Wilson",
+          "position": "FWD",
+          "age": 29,
+          "overall": 88,
+          "goals": 1
+        },
+        {
+          "name": "David Thomas",
+          "position": "DEF",
+          "age": 26,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "John Gonzalez",
+          "position": "GK",
+          "age": 18,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Donald Davis",
+          "position": "MID",
+          "age": 33,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Wilson",
+          "position": "DEF",
+          "age": 35,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Richard Smith",
+          "position": "FWD",
+          "age": 20,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Michael Anderson",
+          "position": "GK",
+          "age": 23,
+          "overall": 86,
+          "goals": 0
+        },
+        {
+          "name": "Steven Taylor",
+          "position": "MID",
+          "age": 31,
+          "overall": 82,
+          "goals": 1
+        },
+        {
+          "name": "Donald Garcia",
+          "position": "FWD",
+          "age": 28,
+          "overall": 83,
+          "goals": 1
+        },
+        {
+          "name": "Robert Miller",
+          "position": "MID",
+          "age": 26,
+          "overall": 79,
+          "goals": 1
+        },
+        {
+          "name": "Daniel Garcia",
+          "position": "MID",
+          "age": 25,
+          "overall": 74,
+          "goals": 1
+        },
+        {
+          "name": "Mark Moore",
+          "position": "MID",
+          "age": 27,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Smith",
+          "position": "MID",
+          "age": 32,
+          "overall": 79,
+          "goals": 2
+        },
+        {
+          "name": "William Jackson",
+          "position": "FWD",
+          "age": 34,
+          "overall": 74,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Crystal Palace",
+      "points": 1,
+      "elo": 1260.4912834741447,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 0,
+        "drawn": 1,
+        "lost": 2,
+        "goals_for": 3,
+        "goals_against": 9,
+        "goal_diff": -6
+      },
+      "players": [
+        {
+          "name": "Charles Martin",
+          "position": "FWD",
+          "age": 22,
+          "overall": 85,
+          "goals": 1
+        },
+        {
+          "name": "Daniel Brown",
+          "position": "GK",
+          "age": 33,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Donald Anderson",
+          "position": "FWD",
+          "age": 33,
+          "overall": 85,
+          "goals": 1
+        },
+        {
+          "name": "Donald Lopez",
+          "position": "GK",
+          "age": 29,
+          "overall": 95,
+          "goals": 0
+        },
+        {
+          "name": "Kenneth Gonzalez",
+          "position": "GK",
+          "age": 26,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Steven Thomas",
+          "position": "GK",
+          "age": 20,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "John Williams",
+          "position": "GK",
+          "age": 26,
+          "overall": 94,
+          "goals": 0
+        },
+        {
+          "name": "Michael Lopez",
+          "position": "GK",
+          "age": 32,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Taylor",
+          "position": "GK",
+          "age": 19,
+          "overall": 91,
+          "goals": 0
+        },
+        {
+          "name": "John Jones",
+          "position": "FWD",
+          "age": 28,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Charles Rodriguez",
+          "position": "GK",
+          "age": 31,
+          "overall": 91,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Martin",
+          "position": "GK",
+          "age": 21,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "Donald Williams",
+          "position": "FWD",
+          "age": 27,
+          "overall": 95,
+          "goals": 1
+        },
+        {
+          "name": "Matthew Davis",
+          "position": "MID",
+          "age": 19,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "William Brown",
+          "position": "MID",
+          "age": 28,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Martinez",
+          "position": "DEF",
+          "age": 23,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Rodriguez",
+          "position": "GK",
+          "age": 30,
+          "overall": 93,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Martinez",
+          "position": "GK",
+          "age": 32,
+          "overall": 95,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Everton",
+      "points": 0,
+      "elo": 1218.3339594226618,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 0,
+        "drawn": 0,
+        "lost": 3,
+        "goals_for": 6,
+        "goals_against": 12,
+        "goal_diff": -6
+      },
+      "players": [
+        {
+          "name": "James Taylor",
+          "position": "GK",
+          "age": 34,
+          "overall": 86,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Brown",
+          "position": "MID",
+          "age": 33,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "David Hernandez",
+          "position": "FWD",
+          "age": 23,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Robert Hernandez",
+          "position": "DEF",
+          "age": 22,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Steven Rodriguez",
+          "position": "MID",
+          "age": 27,
+          "overall": 78,
+          "goals": 1
+        },
+        {
+          "name": "Thomas Garcia",
+          "position": "DEF",
+          "age": 22,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Michael Gonzalez",
+          "position": "MID",
+          "age": 22,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Michael Gonzalez",
+          "position": "MID",
+          "age": 19,
+          "overall": 77,
+          "goals": 1
+        },
+        {
+          "name": "Thomas Lopez",
+          "position": "GK",
+          "age": 25,
+          "overall": 89,
+          "goals": 0
+        },
+        {
+          "name": "Charles Garcia",
+          "position": "FWD",
+          "age": 23,
+          "overall": 74,
+          "goals": 0
+        },
+        {
+          "name": "John Williams",
+          "position": "FWD",
+          "age": 24,
+          "overall": 73,
+          "goals": 1
+        },
+        {
+          "name": "Joshua Gonzalez",
+          "position": "FWD",
+          "age": 27,
+          "overall": 79,
+          "goals": 1
+        },
+        {
+          "name": "Joshua Hernandez",
+          "position": "MID",
+          "age": 30,
+          "overall": 77,
+          "goals": 1
+        },
+        {
+          "name": "John Jones",
+          "position": "FWD",
+          "age": 21,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Richard Lopez",
+          "position": "DEF",
+          "age": 27,
+          "overall": 74,
+          "goals": 0
+        },
+        {
+          "name": "Richard Johnson",
+          "position": "GK",
+          "age": 28,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Brown",
+          "position": "FWD",
+          "age": 26,
+          "overall": 88,
+          "goals": 1
+        },
+        {
+          "name": "Richard Lopez",
+          "position": "MID",
+          "age": 35,
+          "overall": 87,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Fulham",
+      "points": 4,
+      "elo": 1309.26094845129,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 8,
+        "goals_against": 9,
+        "goal_diff": -1
+      },
+      "players": [
+        {
+          "name": "John Hernandez",
+          "position": "DEF",
+          "age": 23,
+          "overall": 97,
+          "goals": 0
+        },
+        {
+          "name": "David Jackson",
+          "position": "MID",
+          "age": 35,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "James Jones",
+          "position": "DEF",
+          "age": 25,
+          "overall": 92,
+          "goals": 0
+        },
+        {
+          "name": "William Miller",
+          "position": "FWD",
+          "age": 18,
+          "overall": 89,
+          "goals": 2
+        },
+        {
+          "name": "Joshua Rodriguez",
+          "position": "GK",
+          "age": 26,
+          "overall": 94,
+          "goals": 0
+        },
+        {
+          "name": "Donald Martinez",
+          "position": "FWD",
+          "age": 22,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "Michael Brown",
+          "position": "FWD",
+          "age": 30,
+          "overall": 92,
+          "goals": 2
+        },
+        {
+          "name": "David Gonzalez",
+          "position": "MID",
+          "age": 19,
+          "overall": 99,
+          "goals": 0
+        },
+        {
+          "name": "Robert Smith",
+          "position": "DEF",
+          "age": 30,
+          "overall": 88,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Jones",
+          "position": "GK",
+          "age": 33,
+          "overall": 99,
+          "goals": 0
+        },
+        {
+          "name": "Kenneth Rodriguez",
+          "position": "DEF",
+          "age": 24,
+          "overall": 95,
+          "goals": 0
+        },
+        {
+          "name": "Paul Moore",
+          "position": "FWD",
+          "age": 34,
+          "overall": 88,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Williams",
+          "position": "DEF",
+          "age": 19,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Davis",
+          "position": "MID",
+          "age": 23,
+          "overall": 90,
+          "goals": 3
+        },
+        {
+          "name": "Kenneth Garcia",
+          "position": "DEF",
+          "age": 33,
+          "overall": 97,
+          "goals": 0
+        },
+        {
+          "name": "Steven Wilson",
+          "position": "DEF",
+          "age": 26,
+          "overall": 96,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Jackson",
+          "position": "DEF",
+          "age": 21,
+          "overall": 93,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Gonzalez",
+          "position": "FWD",
+          "age": 20,
+          "overall": 95,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "points": 2,
+      "elo": 1250.1816806940087,
+      "tactic": "Attack",
+      "stats": {
+        "played": 3,
+        "won": 0,
+        "drawn": 2,
+        "lost": 1,
+        "goals_for": 4,
+        "goals_against": 5,
+        "goal_diff": -1
+      },
+      "players": [
+        {
+          "name": "James Anderson",
+          "position": "FWD",
+          "age": 19,
+          "overall": 73,
+          "goals": 1
+        },
+        {
+          "name": "Mark Wilson",
+          "position": "DEF",
+          "age": 30,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Jones",
+          "position": "GK",
+          "age": 18,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Charles Jackson",
+          "position": "DEF",
+          "age": 24,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Miller",
+          "position": "DEF",
+          "age": 24,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Donald Rodriguez",
+          "position": "DEF",
+          "age": 23,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "John Moore",
+          "position": "GK",
+          "age": 19,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "David Miller",
+          "position": "MID",
+          "age": 18,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Charles Garcia",
+          "position": "GK",
+          "age": 35,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Hernandez",
+          "position": "DEF",
+          "age": 28,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "James Williams",
+          "position": "FWD",
+          "age": 24,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "James Martinez",
+          "position": "FWD",
+          "age": 30,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Garcia",
+          "position": "MID",
+          "age": 22,
+          "overall": 74,
+          "goals": 1
+        },
+        {
+          "name": "Michael Anderson",
+          "position": "FWD",
+          "age": 19,
+          "overall": 85,
+          "goals": 1
+        },
+        {
+          "name": "Matthew Miller",
+          "position": "MID",
+          "age": 19,
+          "overall": 83,
+          "goals": 1
+        },
+        {
+          "name": "Joseph Garcia",
+          "position": "MID",
+          "age": 18,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Mark Brown",
+          "position": "FWD",
+          "age": 27,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Rodriguez",
+          "position": "MID",
+          "age": 31,
+          "overall": 77,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Luton Town",
+      "points": 6,
+      "elo": 1260.596548976615,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 6,
+        "goals_against": 5,
+        "goal_diff": 1
+      },
+      "players": [
+        {
+          "name": "Andrew Moore",
+          "position": "DEF",
+          "age": 23,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Mark Smith",
+          "position": "MID",
+          "age": 34,
+          "overall": 66,
+          "goals": 1
+        },
+        {
+          "name": "Daniel Martin",
+          "position": "FWD",
+          "age": 18,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Smith",
+          "position": "MID",
+          "age": 24,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Robert Williams",
+          "position": "MID",
+          "age": 24,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Hernandez",
+          "position": "FWD",
+          "age": 24,
+          "overall": 66,
+          "goals": 0
+        },
+        {
+          "name": "Charles Martin",
+          "position": "FWD",
+          "age": 18,
+          "overall": 77,
+          "goals": 1
+        },
+        {
+          "name": "Donald Miller",
+          "position": "FWD",
+          "age": 33,
+          "overall": 72,
+          "goals": 1
+        },
+        {
+          "name": "Andrew Anderson",
+          "position": "DEF",
+          "age": 32,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "William Miller",
+          "position": "FWD",
+          "age": 25,
+          "overall": 81,
+          "goals": 1
+        },
+        {
+          "name": "Anthony Rodriguez",
+          "position": "MID",
+          "age": 27,
+          "overall": 79,
+          "goals": 1
+        },
+        {
+          "name": "Joseph Johnson",
+          "position": "FWD",
+          "age": 28,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Paul Hernandez",
+          "position": "MID",
+          "age": 33,
+          "overall": 68,
+          "goals": 0
+        },
+        {
+          "name": "Paul Moore",
+          "position": "MID",
+          "age": 24,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Wilson",
+          "position": "GK",
+          "age": 26,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Charles Wilson",
+          "position": "FWD",
+          "age": 31,
+          "overall": 78,
+          "goals": 1
+        },
+        {
+          "name": "Mark Martinez",
+          "position": "DEF",
+          "age": 21,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Charles Jones",
+          "position": "FWD",
+          "age": 32,
+          "overall": 75,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Man City",
+      "points": 7,
+      "elo": 1326.7387415935752,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 2,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 13,
+        "goals_against": 6,
+        "goal_diff": 7
+      },
+      "players": [
+        {
+          "name": "Matthew Taylor",
+          "position": "GK",
+          "age": 26,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Gonzalez",
+          "position": "DEF",
+          "age": 29,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Charles Williams",
+          "position": "GK",
+          "age": 22,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Robert Hernandez",
+          "position": "GK",
+          "age": 35,
+          "overall": 91,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Smith",
+          "position": "DEF",
+          "age": 26,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Williams",
+          "position": "FWD",
+          "age": 19,
+          "overall": 78,
+          "goals": 2
+        },
+        {
+          "name": "Charles Thomas",
+          "position": "MID",
+          "age": 28,
+          "overall": 88,
+          "goals": 2
+        },
+        {
+          "name": "William Jackson",
+          "position": "DEF",
+          "age": 33,
+          "overall": 91,
+          "goals": 0
+        },
+        {
+          "name": "Charles Lopez",
+          "position": "MID",
+          "age": 20,
+          "overall": 89,
+          "goals": 1
+        },
+        {
+          "name": "Richard Anderson",
+          "position": "DEF",
+          "age": 18,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Mark Rodriguez",
+          "position": "GK",
+          "age": 34,
+          "overall": 86,
+          "goals": 0
+        },
+        {
+          "name": "Kenneth Hernandez",
+          "position": "FWD",
+          "age": 21,
+          "overall": 82,
+          "goals": 1
+        },
+        {
+          "name": "William Rodriguez",
+          "position": "MID",
+          "age": 23,
+          "overall": 85,
+          "goals": 2
+        },
+        {
+          "name": "Mark Martin",
+          "position": "MID",
+          "age": 19,
+          "overall": 90,
+          "goals": 2
+        },
+        {
+          "name": "Paul Brown",
+          "position": "MID",
+          "age": 23,
+          "overall": 90,
+          "goals": 3
+        },
+        {
+          "name": "Joshua Jackson",
+          "position": "DEF",
+          "age": 25,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "Robert Miller",
+          "position": "DEF",
+          "age": 26,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Richard Brown",
+          "position": "DEF",
+          "age": 20,
+          "overall": 90,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Man United",
+      "points": 6,
+      "elo": 1256.8238524086628,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 11,
+        "goals_against": 10,
+        "goal_diff": 1
+      },
+      "players": [
+        {
+          "name": "Andrew Anderson",
+          "position": "FWD",
+          "age": 28,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Miller",
+          "position": "FWD",
+          "age": 18,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Jones",
+          "position": "FWD",
+          "age": 35,
+          "overall": 76,
+          "goals": 3
+        },
+        {
+          "name": "James Gonzalez",
+          "position": "DEF",
+          "age": 18,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Richard Martinez",
+          "position": "DEF",
+          "age": 25,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "David Miller",
+          "position": "FWD",
+          "age": 24,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Michael Jackson",
+          "position": "FWD",
+          "age": 34,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Anderson",
+          "position": "GK",
+          "age": 28,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Donald Rodriguez",
+          "position": "MID",
+          "age": 29,
+          "overall": 74,
+          "goals": 3
+        },
+        {
+          "name": "David Smith",
+          "position": "DEF",
+          "age": 32,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Hernandez",
+          "position": "DEF",
+          "age": 24,
+          "overall": 65,
+          "goals": 0
+        },
+        {
+          "name": "William Hernandez",
+          "position": "FWD",
+          "age": 27,
+          "overall": 68,
+          "goals": 1
+        },
+        {
+          "name": "Steven Martinez",
+          "position": "MID",
+          "age": 22,
+          "overall": 75,
+          "goals": 1
+        },
+        {
+          "name": "Richard Jones",
+          "position": "FWD",
+          "age": 34,
+          "overall": 74,
+          "goals": 2
+        },
+        {
+          "name": "Thomas Thomas",
+          "position": "MID",
+          "age": 24,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Richard Taylor",
+          "position": "DEF",
+          "age": 28,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "William Miller",
+          "position": "DEF",
+          "age": 21,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Lopez",
+          "position": "MID",
+          "age": 28,
+          "overall": 65,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "name": "Newcastle",
+      "points": 6,
+      "elo": 1301.4330797153805,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 6,
+        "goals_against": 4,
+        "goal_diff": 2
+      },
+      "players": [
+        {
+          "name": "Thomas Miller",
+          "position": "MID",
+          "age": 23,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Hernandez",
+          "position": "GK",
+          "age": 19,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Robert Lopez",
+          "position": "FWD",
+          "age": 33,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "David Anderson",
+          "position": "MID",
+          "age": 35,
+          "overall": 84,
+          "goals": 1
+        },
+        {
+          "name": "Mark Thomas",
+          "position": "MID",
+          "age": 27,
+          "overall": 80,
+          "goals": 2
+        },
+        {
+          "name": "Anthony Anderson",
+          "position": "GK",
+          "age": 33,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Steven Hernandez",
+          "position": "FWD",
+          "age": 30,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Wilson",
+          "position": "MID",
+          "age": 30,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Donald Brown",
+          "position": "FWD",
+          "age": 28,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Garcia",
+          "position": "MID",
+          "age": 33,
+          "overall": 85,
+          "goals": 2
+        },
+        {
+          "name": "James Hernandez",
+          "position": "DEF",
+          "age": 23,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Michael Gonzalez",
+          "position": "DEF",
+          "age": 24,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Garcia",
+          "position": "FWD",
+          "age": 25,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Robert Johnson",
+          "position": "GK",
+          "age": 22,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Michael Lopez",
+          "position": "FWD",
+          "age": 31,
+          "overall": 89,
+          "goals": 0
+        },
+        {
+          "name": "Charles Martinez",
+          "position": "GK",
+          "age": 26,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "Robert Lopez",
+          "position": "DEF",
+          "age": 25,
+          "overall": 88,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Gonzalez",
+          "position": "FWD",
+          "age": 27,
+          "overall": 83,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "name": "Nottm Forest",
+      "points": 4,
+      "elo": 1243.5392094778222,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 6,
+        "goals_against": 7,
+        "goal_diff": -1
+      },
+      "players": [
+        {
+          "name": "Mark Smith",
+          "position": "MID",
+          "age": 23,
+          "overall": 78,
+          "goals": 1
+        },
+        {
+          "name": "Charles Johnson",
+          "position": "MID",
+          "age": 21,
+          "overall": 77,
+          "goals": 1
+        },
+        {
+          "name": "Richard Jackson",
+          "position": "MID",
+          "age": 34,
+          "overall": 71,
+          "goals": 1
+        },
+        {
+          "name": "John Williams",
+          "position": "MID",
+          "age": 31,
+          "overall": 78,
+          "goals": 1
+        },
+        {
+          "name": "Joseph Garcia",
+          "position": "MID",
+          "age": 18,
+          "overall": 67,
+          "goals": 0
+        },
+        {
+          "name": "John Hernandez",
+          "position": "DEF",
+          "age": 19,
+          "overall": 67,
+          "goals": 0
+        },
+        {
+          "name": "James Martin",
+          "position": "MID",
+          "age": 18,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "David Davis",
+          "position": "DEF",
+          "age": 32,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Taylor",
+          "position": "FWD",
+          "age": 33,
+          "overall": 74,
+          "goals": 0
+        },
+        {
+          "name": "Mark Taylor",
+          "position": "DEF",
+          "age": 24,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "James Williams",
+          "position": "GK",
+          "age": 31,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Martinez",
+          "position": "GK",
+          "age": 27,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Wilson",
+          "position": "GK",
+          "age": 22,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Paul Garcia",
+          "position": "GK",
+          "age": 26,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "William Gonzalez",
+          "position": "GK",
+          "age": 33,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "John Rodriguez",
+          "position": "MID",
+          "age": 28,
+          "overall": 68,
+          "goals": 0
+        },
+        {
+          "name": "Kenneth Moore",
+          "position": "MID",
+          "age": 25,
+          "overall": 70,
+          "goals": 2
+        },
+        {
+          "name": "Robert Gonzalez",
+          "position": "DEF",
+          "age": 21,
+          "overall": 73,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Sheffield Utd",
+      "points": 4,
+      "elo": 1301.0622410796952,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 9,
+        "goals_against": 9,
+        "goal_diff": 0
+      },
+      "players": [
+        {
+          "name": "Paul Martin",
+          "position": "FWD",
+          "age": 35,
+          "overall": 92,
+          "goals": 1
+        },
+        {
+          "name": "Thomas Martinez",
+          "position": "DEF",
+          "age": 33,
+          "overall": 89,
+          "goals": 0
+        },
+        {
+          "name": "Richard Gonzalez",
+          "position": "MID",
+          "age": 27,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Jackson",
+          "position": "DEF",
+          "age": 33,
+          "overall": 94,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Miller",
+          "position": "DEF",
+          "age": 23,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Williams",
+          "position": "FWD",
+          "age": 35,
+          "overall": 94,
+          "goals": 1
+        },
+        {
+          "name": "Paul Jones",
+          "position": "MID",
+          "age": 33,
+          "overall": 80,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Lopez",
+          "position": "GK",
+          "age": 25,
+          "overall": 95,
+          "goals": 0
+        },
+        {
+          "name": "John Martinez",
+          "position": "MID",
+          "age": 24,
+          "overall": 94,
+          "goals": 1
+        },
+        {
+          "name": "Joshua Hernandez",
+          "position": "GK",
+          "age": 18,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Anderson",
+          "position": "FWD",
+          "age": 18,
+          "overall": 89,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Moore",
+          "position": "MID",
+          "age": 28,
+          "overall": 80,
+          "goals": 2
+        },
+        {
+          "name": "Michael Martin",
+          "position": "GK",
+          "age": 21,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Davis",
+          "position": "MID",
+          "age": 18,
+          "overall": 90,
+          "goals": 0
+        },
+        {
+          "name": "Richard Jackson",
+          "position": "MID",
+          "age": 19,
+          "overall": 96,
+          "goals": 4
+        },
+        {
+          "name": "John Brown",
+          "position": "FWD",
+          "age": 28,
+          "overall": 89,
+          "goals": 0
+        },
+        {
+          "name": "Charles Garcia",
+          "position": "GK",
+          "age": 28,
+          "overall": 87,
+          "goals": 0
+        },
+        {
+          "name": "Charles Gonzalez",
+          "position": "DEF",
+          "age": 18,
+          "overall": 95,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Tottenham",
+      "points": 1,
+      "elo": 1228.4567750638162,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 0,
+        "drawn": 1,
+        "lost": 2,
+        "goals_for": 4,
+        "goals_against": 8,
+        "goal_diff": -4
+      },
+      "players": [
+        {
+          "name": "Matthew Moore",
+          "position": "GK",
+          "age": 34,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "David Martinez",
+          "position": "GK",
+          "age": 20,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "Mark Taylor",
+          "position": "FWD",
+          "age": 22,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "William Moore",
+          "position": "GK",
+          "age": 34,
+          "overall": 74,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Lopez",
+          "position": "DEF",
+          "age": 31,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Michael Lopez",
+          "position": "GK",
+          "age": 18,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Davis",
+          "position": "MID",
+          "age": 20,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "David Martinez",
+          "position": "GK",
+          "age": 31,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Richard Smith",
+          "position": "MID",
+          "age": 18,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Jackson",
+          "position": "DEF",
+          "age": 25,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Donald Johnson",
+          "position": "DEF",
+          "age": 33,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "James Johnson",
+          "position": "FWD",
+          "age": 29,
+          "overall": 80,
+          "goals": 2
+        },
+        {
+          "name": "Steven Moore",
+          "position": "MID",
+          "age": 18,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Moore",
+          "position": "FWD",
+          "age": 33,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Davis",
+          "position": "MID",
+          "age": 26,
+          "overall": 75,
+          "goals": 2
+        },
+        {
+          "name": "Charles Miller",
+          "position": "GK",
+          "age": 21,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Williams",
+          "position": "DEF",
+          "age": 21,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Richard Wilson",
+          "position": "FWD",
+          "age": 29,
+          "overall": 83,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "West Ham",
+      "points": 1,
+      "elo": 1227.6447791952828,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 0,
+        "drawn": 1,
+        "lost": 2,
+        "goals_for": 7,
+        "goals_against": 10,
+        "goal_diff": -3
+      },
+      "players": [
+        {
+          "name": "Andrew Davis",
+          "position": "FWD",
+          "age": 31,
+          "overall": 73,
+          "goals": 2
+        },
+        {
+          "name": "Matthew Jones",
+          "position": "DEF",
+          "age": 26,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Johnson",
+          "position": "MID",
+          "age": 21,
+          "overall": 84,
+          "goals": 3
+        },
+        {
+          "name": "William Smith",
+          "position": "DEF",
+          "age": 29,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Johnson",
+          "position": "GK",
+          "age": 29,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "Charles Anderson",
+          "position": "GK",
+          "age": 21,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Mark Martinez",
+          "position": "DEF",
+          "age": 23,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Martinez",
+          "position": "DEF",
+          "age": 29,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Rodriguez",
+          "position": "GK",
+          "age": 18,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Robert Rodriguez",
+          "position": "FWD",
+          "age": 24,
+          "overall": 76,
+          "goals": 0
+        },
+        {
+          "name": "Matthew Anderson",
+          "position": "DEF",
+          "age": 29,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "James Lopez",
+          "position": "FWD",
+          "age": 20,
+          "overall": 78,
+          "goals": 0
+        },
+        {
+          "name": "Robert Garcia",
+          "position": "FWD",
+          "age": 20,
+          "overall": 77,
+          "goals": 2
+        },
+        {
+          "name": "Joseph Thomas",
+          "position": "GK",
+          "age": 22,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "James Miller",
+          "position": "DEF",
+          "age": 26,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Robert Martin",
+          "position": "DEF",
+          "age": 32,
+          "overall": 70,
+          "goals": 0
+        },
+        {
+          "name": "Richard Taylor",
+          "position": "FWD",
+          "age": 35,
+          "overall": 73,
+          "goals": 0
+        },
+        {
+          "name": "William Martin",
+          "position": "FWD",
+          "age": 27,
+          "overall": 79,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "name": "Wolves",
+      "points": 6,
+      "elo": 1278.7432892466406,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 10,
+        "goals_against": 4,
+        "goal_diff": 6
+      },
+      "players": [
+        {
+          "name": "Michael Williams",
+          "position": "GK",
+          "age": 24,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Mark Rodriguez",
+          "position": "DEF",
+          "age": 18,
+          "overall": 69,
+          "goals": 0
+        },
+        {
+          "name": "Steven Hernandez",
+          "position": "DEF",
+          "age": 22,
+          "overall": 68,
+          "goals": 0
+        },
+        {
+          "name": "Charles Jones",
+          "position": "GK",
+          "age": 19,
+          "overall": 68,
+          "goals": 0
+        },
+        {
+          "name": "Robert Gonzalez",
+          "position": "DEF",
+          "age": 33,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Mark Taylor",
+          "position": "DEF",
+          "age": 20,
+          "overall": 71,
+          "goals": 0
+        },
+        {
+          "name": "John Miller",
+          "position": "MID",
+          "age": 21,
+          "overall": 81,
+          "goals": 0
+        },
+        {
+          "name": "Paul Gonzalez",
+          "position": "GK",
+          "age": 23,
+          "overall": 69,
+          "goals": 0
+        },
+        {
+          "name": "Joshua Williams",
+          "position": "DEF",
+          "age": 27,
+          "overall": 75,
+          "goals": 0
+        },
+        {
+          "name": "David Martinez",
+          "position": "GK",
+          "age": 19,
+          "overall": 77,
+          "goals": 0
+        },
+        {
+          "name": "Richard Brown",
+          "position": "FWD",
+          "age": 29,
+          "overall": 69,
+          "goals": 1
+        },
+        {
+          "name": "Joseph Martin",
+          "position": "FWD",
+          "age": 32,
+          "overall": 81,
+          "goals": 1
+        },
+        {
+          "name": "Mark Williams",
+          "position": "MID",
+          "age": 22,
+          "overall": 79,
+          "goals": 0
+        },
+        {
+          "name": "Daniel Martinez",
+          "position": "FWD",
+          "age": 19,
+          "overall": 77,
+          "goals": 2
+        },
+        {
+          "name": "Andrew Williams",
+          "position": "MID",
+          "age": 25,
+          "overall": 77,
+          "goals": 1
+        },
+        {
+          "name": "Thomas Lopez",
+          "position": "MID",
+          "age": 35,
+          "overall": 69,
+          "goals": 3
+        },
+        {
+          "name": "David Taylor",
+          "position": "GK",
+          "age": 20,
+          "overall": 72,
+          "goals": 0
+        },
+        {
+          "name": "David Garcia",
+          "position": "MID",
+          "age": 24,
+          "overall": 69,
+          "goals": 2
+        }
+      ]
+    },
+    {
+      "name": "Leicester City",
+      "points": 4,
+      "elo": 1297.886140301365,
+      "tactic": "Balanced",
+      "stats": {
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 7,
+        "goals_against": 7,
+        "goal_diff": 0
+      },
+      "players": [
+        {
+          "name": "Michael Moore",
+          "position": "GK",
+          "age": 32,
+          "overall": 94,
+          "goals": 0
+        },
+        {
+          "name": "William Davis",
+          "position": "MID",
+          "age": 30,
+          "overall": 86,
+          "goals": 2
+        },
+        {
+          "name": "Steven Davis",
+          "position": "MID",
+          "age": 25,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "Michael Jones",
+          "position": "FWD",
+          "age": 30,
+          "overall": 94,
+          "goals": 1
+        },
+        {
+          "name": "Anthony Rodriguez",
+          "position": "DEF",
+          "age": 23,
+          "overall": 83,
+          "goals": 0
+        },
+        {
+          "name": "William Garcia",
+          "position": "FWD",
+          "age": 22,
+          "overall": 94,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Hernandez",
+          "position": "MID",
+          "age": 24,
+          "overall": 84,
+          "goals": 1
+        },
+        {
+          "name": "Charles Rodriguez",
+          "position": "DEF",
+          "age": 20,
+          "overall": 91,
+          "goals": 0
+        },
+        {
+          "name": "Anthony Jackson",
+          "position": "GK",
+          "age": 34,
+          "overall": 97,
+          "goals": 0
+        },
+        {
+          "name": "John Jones",
+          "position": "FWD",
+          "age": 29,
+          "overall": 95,
+          "goals": 0
+        },
+        {
+          "name": "James Hernandez",
+          "position": "MID",
+          "age": 28,
+          "overall": 84,
+          "goals": 0
+        },
+        {
+          "name": "John Thomas",
+          "position": "GK",
+          "age": 23,
+          "overall": 85,
+          "goals": 0
+        },
+        {
+          "name": "David Brown",
+          "position": "GK",
+          "age": 32,
+          "overall": 92,
+          "goals": 0
+        },
+        {
+          "name": "Joseph Martin",
+          "position": "FWD",
+          "age": 20,
+          "overall": 81,
+          "goals": 1
+        },
+        {
+          "name": "Anthony Anderson",
+          "position": "GK",
+          "age": 28,
+          "overall": 92,
+          "goals": 0
+        },
+        {
+          "name": "Thomas Johnson",
+          "position": "DEF",
+          "age": 31,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "Andrew Jackson",
+          "position": "DEF",
+          "age": 32,
+          "overall": 82,
+          "goals": 0
+        },
+        {
+          "name": "James Wilson",
+          "position": "MID",
+          "age": 25,
+          "overall": 88,
+          "goals": 2
+        }
+      ]
+    }
+  ]
+}
